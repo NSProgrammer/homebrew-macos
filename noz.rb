@@ -1,4 +1,4 @@
-class ZipUtilitiesCLI < Formula
+class Noz < Formula
   desc "A command line tool to for compression and decompression"
   homepage "https://github.com/NSProgrammer/ZipUtilities"
   url "https://github.com/NSProgrammer/ZipUtilities/releases/download/1.11.2/noz-1.11.2.tar.gz"
